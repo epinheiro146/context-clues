@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: crimson;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h3 {
+    background-color: darkslategray;
+    margin: 1em;
+    padding: .75em;
+    border-radius: 50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 1px 1px 2px black;
+    font-size: x-large;
+}
